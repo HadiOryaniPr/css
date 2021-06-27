@@ -18,8 +18,8 @@
 
 body {
    font-family: 'Yekan'; 
-   background: #21b62d;
-   background: linear-gradient(90deg, #1479d6 0%, #3021b6 100%);
+   background: rgb(86,11,173);
+    background: linear-gradient(62deg, rgba(86,11,173,1) 0%, rgba(75,16,100,1) 100%);
    height: 100vh;
    direction: rtl;
 }
