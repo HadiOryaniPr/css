@@ -21,7 +21,7 @@ body {
    background: rgb(86,11,173);
     background: linear-gradient(62deg, rgba(86,11,173,1) 0%, rgba(75,16,100,1) 100%);
    height: 100vh;
-   direction: rtl;
+   direction: rtl; 
 }
 
 .menu {
